@@ -80,8 +80,8 @@ Here’s the complete list of problems I solved each day, with links to:
 
 ## 📬 Connect with Me
 Let’s connect and talk about problem-solving, algorithms, or anything tech-related:
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/nourhan-essam123/) 
-- 💻 **LeetCode Profile**: [Your LeetCode Profile](https://leetcode.com/u/norhan123/) 
+- 🌐 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/nourhan-essam123/) 
+- 💻 **LeetCode Profile**: [My LeetCode Profile](https://leetcode.com/u/norhan123/) 
 
 ---
 
